@@ -44,9 +44,9 @@ test('should setup add expense action object with default values', () => {
         expense: {
             id: expect.any(String),
             description: '',
+            note:'',
             amount: 0,
             createdAt:0,
-            note:''
 
         }
     });
