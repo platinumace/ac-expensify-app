@@ -1,5 +1,5 @@
 Arguments: 
-  /usr/local/bin/node /usr/local/bin/yarn install --force
+  /usr/local/bin/node /usr/local/bin/yarn install
 
 PATH: 
   /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
@@ -50,7 +50,7 @@ npm manifest:
       "live-server": "^1.2.1",
       "moment": "2.19.3",
       "node-sass": "4.5.3",
-      "node":"11.2.0",
+      "node":"10.14.2",
       "normalize.css": "7.0.0",
       "raf": "3.3.2",
       "react": "16.0.0",
